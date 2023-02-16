@@ -12,5 +12,6 @@ class Home extends BaseController
     {
         $a = 1;
         $b = 2;
+        $c = 3;
     }
 }
