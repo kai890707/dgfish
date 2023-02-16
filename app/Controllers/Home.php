@@ -10,7 +10,7 @@ class Home extends BaseController
     }
     public function test()
     {
-        $a = 2;
+        $a = 4;
         $b = 2;
         $c = 3;
     }
