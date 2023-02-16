@@ -11,5 +11,6 @@ class Home extends BaseController
     public function test()
     {
         $a = 1;
+        $b = 2;
     }
 }
